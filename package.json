@@ -1,0 +1,8 @@
+{
+  "name": "smart-leftover-logistics-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "services/*"
+  ]
+}
